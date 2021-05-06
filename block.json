@@ -3,7 +3,6 @@
 	"name": "frontity/frontity-slot",
 	"title": "Frontity Slot",
 	"category": "embed",
-	"icon": "controls-forward",
 	"description": "Insert a Frontity Slot",
 	"supports": {
 		"html": false
@@ -11,7 +10,6 @@
 	"textdomain": "frontity-slot",
 	"editorScript": "file:./build/index.js",
 	"editorStyle": "file:./build/index.css",
-	"style": "file:./build/style-index.css",
 	"attributes": {
 		"name": {
 			"type": "string",
