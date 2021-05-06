@@ -11,5 +11,14 @@
 	"textdomain": "frontity-slot",
 	"editorScript": "file:./build/index.js",
 	"editorStyle": "file:./build/index.css",
-	"style": "file:./build/style-index.css"
+	"style": "file:./build/style-index.css",
+	"attributes": {
+		"name": {
+			"type": "string",
+			"source": "attribute",
+			"selector": "div",
+			"attribute": "data-name",
+			"default": "Change Me!"
+		}
+	}
 }
