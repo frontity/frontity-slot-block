@@ -15,8 +15,8 @@
 			"type": "string",
 			"source": "attribute",
 			"selector": "div",
-			"attribute": "data-name",
-			"default": "Change Me!"
+			"attribute": "data-frontity-slot-name",
+			"default": ""
 		}
 	}
 }

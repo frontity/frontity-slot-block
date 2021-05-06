@@ -15,7 +15,7 @@ export default function FrontitySlotEdit({ attributes, setAttributes }) {
 				{__("Frontity Slot")}
 			</label>
 			<PlainText
-				className="blocks-frontity-slot__textarea"
+				className="blocks-frontity-slot-name__textarea"
 				id={inputId}
 				value={attributes.name}
 				aria-label={__("Frontity Slot name")}
