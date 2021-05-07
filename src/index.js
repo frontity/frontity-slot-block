@@ -4,7 +4,7 @@ import edit from "./edit";
 import save from "./save";
 
 registerBlockType("frontity/frontity-slot", {
-	icon: next,
-	edit,
-	save,
+  icon: next,
+  edit,
+  save,
 });

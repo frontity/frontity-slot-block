@@ -1,9 +1,9 @@
 [data-type="frontity/frontity-slot"] {
-	.block-editor-plain-text {
-		max-height: 250px;
-	}
+  .block-editor-plain-text {
+    max-height: 250px;
+  }
 
-	&.components-placeholder {
-		min-height: 0;
-	}
+  &.components-placeholder {
+    min-height: 0;
+  }
 }
