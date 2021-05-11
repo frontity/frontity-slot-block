@@ -34,6 +34,8 @@ export default {
 };
 ```
 
+[![Frontity Slot Block Demo](assets/loom-demo.png)](https://www.loom.com/share/d0a0d91e6f5c47b08a2d3da3eaf32629)
+
 This Frontity feature is discussed at https://community.frontity.org/t/frontity-slot-block/4534. Feel free to join and participate.
 
 == Installation ==
