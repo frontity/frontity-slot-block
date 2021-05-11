@@ -49,8 +49,6 @@ Both approaches work, but using Frontity Slots is more explicit, clean, and shou
 
 ## Frontity Channels 🌎
 
-[![Community Forum Topics](https://img.shields.io/discourse/topics?color=blue&label=community%20forum&server=https%3A%2F%2Fcommunity.frontity.org%2F)](https://community.frontity.org/) [![Twitter: frontity](https://img.shields.io/twitter/follow/frontity.svg?style=social)](https://twitter.com/frontity) ![Frontity Github Stars](https://img.shields.io/github/stars/frontity/frontity?style=social)
-
 There are different channels at your disposal where you can find information about the Frontity project, discuss it and get involved:
 
 - 📖 **[Docs](https://docs.frontity.org)**: this is the place to learn how to build amazing sites with Frontity.
